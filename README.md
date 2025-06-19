@@ -1,10 +1,11 @@
 ## Hi! 👋 My name is Dawa. Nice to meet you!! 😄😊
 
-### I'm a Junior at The City College of New York!
+### I'm a recent Computer Science graduate from The City College of New York!
 
-- 👀 I’m interested in Data Science, Software Engineering, AI and Machine Learning
-- 🌱 I’m currently learning everything I can
-- 🕴 I’m looking to collaborate with other programmers
+- 💻 I’m passionate about Software Engineering, Data Science, AI, and Machine Learning
+- 🌱 Always learning and exploring new technologies
+- 🤝 Looking to collaborate on exciting and impactful projects
+- 🚀 Eager to contribute to innovative solutions and grow as a developer
 
 ### Connect with me:
 
